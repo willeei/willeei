@@ -8,7 +8,7 @@ I am a back-end developer more focused on the Java language, having back-end I l
 
 As a developer I like to venture into paths I have never traveled before in order to gain more knowledge and experience.
 
-<img align="right" alt="GIF" src="https://github.com/wwwgomes/williamsbarriquero/blob/main/.github/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/williamsbarriquero/blob/main/.github/coding.gif?raw=true" width="408" height="318" />
   
 
 **Personal stuff:**
