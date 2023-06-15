@@ -1,15 +1,31 @@
-### Hi there, I'm Williams Barriquero, but you can call me Barricca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="200"/>
+</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/williamsbgomes"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=williamsbarriquero&style=flat-square&color=green" alt=""></p>
+
+
+<h2 align="center">Hi there, I'm Williams Barriquero!</h2>
+<h4 align="center">But you can call me Barricca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h4>
+
+
+<div> 
+  <a href="https://www.linkedin.com/in/williamsbgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://www.instagram.com/priscilamayume/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/williamsbgomes)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=wwwgomes.wwwgomes)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=williamsbarriquero.williamsbarriquero)
 
 I am a back-end developer more focused on the Java language, having back-end I like any language. I love to program, play games, sing, and go to church.
 
-As a developer I like to venture into paths I have never traveled before in order to gain more knowledge and experience.
-
-<img align="right" alt="GIF" src="https://github.com/williamsbarriquero/blob/main/.github/coding.gif?raw=true" width="408" height="318" />
-  
+As a developer I like to venture into paths I have never traveled before in order to gain more knowledge and experience.  
 
 **Personal stuff:**
 
@@ -17,6 +33,8 @@ As a developer I like to venture into paths I have never traveled before in orde
 - 🚀 I'm currently studying and specializing in backend with Java and Spring Boot and looking to learn Golang;
 - 💬 If you need some help with Java and Spring maybe I can help you.;
 - 📫 You will find me by email: barricca.gomes@outlook.com;
+</br>
+
 
 </br>
 
@@ -33,6 +51,10 @@ Go to church, study and take care of my wife and baby on the way
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamsbarriquero&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsbarriquero&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=github_dark"/>
 </p>
+
+## Watch my contribution graph eaten by the snake 🐍
+ 
+  ![snake gif](https://github.com/williamsbarriquero/priscilaMayume/blob/output/github-contribution-grid-snake.svg)
 
 
 
