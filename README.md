@@ -14,7 +14,7 @@
 
 </br>
 
-### 💥 Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=williamsbarriquero.williamsbarriquero)
+### 💥 Glad to see you here! &nbsp;
 
 I am a back-end developer more focused on the Spring Boot, having back-end I like any language. I love to program, play games, sing, and go to church.
 
@@ -41,9 +41,9 @@ Go to church, study and take care of my wife and baby on the way
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamsbarriquero&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsbarriquero&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=williamsbarriquero&theme=dracula&hide_border=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=williamsbarriquero&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsbarriquero&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="316.5em" src="https://github-readme-streak-stats.herokuapp.com/?user=williamsbarriquero&theme=dracula&hide_border=true">
 </p>
 
 ## Watch my contribution graph eaten by the snake 🐍 
