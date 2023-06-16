@@ -13,13 +13,7 @@
 <h2 align="center">Hi there, I'm Williams Barriquero!</h2>
 <h4 align="center">But you can call me Barricca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h4>
 
-
-<div> 
-  <a href="https://www.linkedin.com/in/williamsbgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.instagram.com/priscilamayume/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-</div>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/williamsbgomes)
+</br>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=williamsbarriquero.williamsbarriquero)
 
@@ -29,7 +23,7 @@ As a developer I like to venture into paths I have never traveled before in orde
 
 **Personal stuff:**
 
-- 👨🏻‍💻 I'm currently a System Analyst at [Dock](https://www.linkedin.com/company/dock-community);
+- 👨🏻‍💻 I'm currently a System Analyst at [RPE](https://www.linkedin.com/company/rpe-retail-payment-ecosystem/mycompany/);
 - 🚀 I'm currently studying and specializing in backend with Java and Spring Boot and looking to learn Golang;
 - 💬 If you need some help with Java and Spring maybe I can help you.;
 - 📫 You will find me by email: barricca.gomes@outlook.com;
