@@ -52,9 +52,9 @@ Go to church, study and take care of my wife and baby on the way
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsbarriquero&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=github_dark"/>
 </p>
 
-## Watch my contribution graph eaten by the snake 🐍
+## Watch my contribution graph eaten by the snake 🐍 
  
-  ![snake gif](https://github.com/williamsbarriquero/priscilaMayume/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/williamsbarriquero/williamsbarriquero/blob/output/github-contribution-grid-snake.svg)
 
 
 
