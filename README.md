@@ -26,7 +26,7 @@ As a developer I like to venture into paths I have never traveled before in orde
 - 👨🏻‍💻 I'm currently a System Analyst at [RPE](https://www.linkedin.com/company/rpe-retail-payment-ecosystem/mycompany/);
 - 🚀 I'm currently studying and specializing in backend with Java and Spring Boot and looking to learn Golang;
 - 💬 If you need some help with Java and Spring maybe I can help you.;
-- 📫 You will find me by email: barricca.gomes@outlook.com;
+- 📫 You will find me by email: williamsgomess@outlook.com;
 </br>
 
 
