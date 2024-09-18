@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/williamsbgomes"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=williamsbarriquero&style=flat-square&color=green" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=willeei&style=flat-square&color=green" alt=""></p>
 
 
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Hi there, I'm Williams!</h2>
@@ -41,14 +41,14 @@ Go to church, study and take care of my wife and baby on the way
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=williamsbarriquero&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsbarriquero&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
-  <img height="316.5em" src="https://github-readme-streak-stats.herokuapp.com/?user=williamsbarriquero&theme=dracula&hide_border=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=willeei&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willeei&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="316.5em" src="https://github-readme-streak-stats.herokuapp.com/?user=willeei&theme=dracula&hide_border=true">
 </p>
 
 ## Watch my contribution graph eaten by the snake 🐍 
  
-  ![snake gif](https://github.com/williamsbarriquero/williamsbarriquero/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/willeei/willeei/blob/output/github-contribution-grid-snake.svg)
 
 </samp>
 
